@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 
 <hr style="border-width:1px;">
 
-![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20language&message=Javascript&color=red) 
+![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20Language&message=Javascript&color=red) 
 ![https://img.shields.io/static/v1?label=Skills%20in%&message=Java,%20Python&color=blue](https://img.shields.io/static/v1?label=Skills%20in&message=JavaScript)
 ![https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow](https://img.shields.io/static/v1?label=I%20am%20using&message=Visual%20Studio%20Code&color=yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=2bbc8a)

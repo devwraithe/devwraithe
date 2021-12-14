@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=2bbc8a)

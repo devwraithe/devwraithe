@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=211f1f)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=389a97)
 ![](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=1c78c0)
-![](https://img.shields.io/badge/Versioning-Git-informational?style=flat&logo=git&logoColor=white&color=f1502f)
+![](https://img.shields.io/badge/Control-Git-informational?style=flat&logo=git&logoColor=white&color=f1502f)
 ![](https://img.shields.io/badge/Compiler-Babel-informational?style=flat&logo=babel&logoColor=white&color=ffdf00)
-![](https://img.shields.io/badge/Versioning-GitHub-informational?style=flat&logo=github&logoColor=white&color=211f1f)
+![](https://img.shields.io/badge/Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=211f1f)
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=e34c26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=264de4)

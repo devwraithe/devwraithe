@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m @devwraithe
+- 👀 I’m interested mostly in Frontend Engineering
+- 🌱 I’m currently learning a lot of things
+- 💞️ I’m looking to collaborate on open source projects
+
+<hr style="border-width:1px;">
+
+![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20language&message=Javascript&color=red) ![https://img.shields.io/static/v1?label=Skills%20in%&message=Java,%20Python&color=blue](https://img.shields.io/static/v1?label=Skills%20in&message=JavaScript) ![https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow](https://img.shields.io/static/v1?label=I%20am%20using&message=Visual%20Studio%20Code&color=yellow)

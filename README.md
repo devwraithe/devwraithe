@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <!-- <hr style="border-width:1px;"> -->
 # 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=0c65d4)
-![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=e34c26)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/Cloud-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=211f1f)
 ![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=389a97)
 ![](https://img.shields.io/badge/Bundler-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=1c78c0)
 ![](https://img.shields.io/badge/Versioning-Git-informational?style=flat&logo=git&logoColor=white&color=f1502f)

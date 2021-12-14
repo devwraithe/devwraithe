@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 <!-- <hr style="border-width:1px;"> -->
 ## Tech Stack
-+1
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)

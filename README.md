@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![https://img.shields.io/static/v1?label=Skills%20in%&message=Java,%20Python&color=blue](https://img.shields.io/static/v1?label=Skills%20in&message=JavaScript)
 ![https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow](https://img.shields.io/static/v1?label=I%20am%20using&message=Visual%20Studio%20Code&color=yellow)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=2bbc8a)

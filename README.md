@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20Language&message=Javascript&color=red) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=Visual%20Studio%20Code&color&logoColor=white&color=2bbc8a)

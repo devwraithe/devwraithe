@@ -1,4 +1,4 @@
-# 𝕳𝖎, 𝕴'𝖒 𝕴𝖇𝖗𝖆𝖍𝖎𝖒 𝕴𝖇𝖗𝖆𝖍𝖎𝖒
+## Hi, I'm Ibrahim Ibrahim
 
 <!--
 **devwraithe/devwraithe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m @devwraithe
-- 👀 I’m interested mostly in Frontend Engineering
-- 🌱 I’m currently learning a lot of things
-- 💞️ I’m looking to collaborate on open source projects
+👋 But you may also call me @Devwraithe
+💻 Frontend Engineer cum Creative Developer
+👀 Focused mostly on JavaScript and it's Frameworks
+🌱 I’m currently learning a lot of things
+💞️ I’m looking to collaborate on open source projects
 
 <hr style="border-width:1px;">
 

@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 - 👻 But you may also call me the @Devwraithe
 - 💻 Frontend Engineer obsessed with User Interfaces
-- 👀 Focused mostly on JavaScript and it's Frameworks
+- 🎯 Focused mostly on JavaScript and it's Frameworks
 
-<hr style="border-width:1px;">
+<!-- <hr style="border-width:1px;"> -->
+## Tech Stack
 
 ![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20Language&message=Javascript&color=red) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)

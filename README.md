@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![https://img.shields.io/static/v1?label=Favorite%20Programming%20langauge&message=Javascript&color=red](https://img.shields.io/static/v1?label=Favorite%20language&message=Javascript&color=red) 
 ![https://img.shields.io/static/v1?label=Skills%20in%&message=Java,%20Python&color=blue](https://img.shields.io/static/v1?label=Skills%20in&message=JavaScript)
 ![https://img.shields.io/static/v1?label=I%20am%20using%&message=Visual%20Studio%20Code&color=yellow](https://img.shields.io/static/v1?label=I%20am%20using&message=Visual%20Studio%20Code&color=yellow)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)

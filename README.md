@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👻 You may also call me the [@Devwraithe](https://www.github.com/devwraithe)
-- 💻 Frontend Software Developer and Engineer !Freelance
-- 🎯 Focused mostly on JavaScript and it's frameworks
-- 😄 Obsessed with creating accessible digital experiences
+- 👻 You may also call me the **[@Devwraithe](https://www.github.com/devwraithe)**
+- 💻 I'm a **Frontend Software Engineer** !Freelance
+- 🎯 Focused mostly on **JavaScript** and it's frameworks
+- 😄 And obsessed with creating **accessible digital experiences**
 
 <!-- <hr style="border-width:1px;"> -->
 # 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 👻 You may also call me the **[@Devwraithe](https://www.github.com/devwraithe)**
-- 💻 I'm a **Frontend Software Engineer** !Freelance
+- 💻 I'm a **Frontend Software Engineer** - Freelance
 - 🎯 Focused mostly on **JavaScript** and it's frameworks
 - 😄 And obsessed with creating **accessible digital experiences**
 

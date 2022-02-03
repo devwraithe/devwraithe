@@ -1,4 +1,4 @@
-# 𝐇𝐢, 𝐈'𝐦 𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐈𝐛𝐫𝐚𝐡𝐢𝐦
+# Hi, I'm Ibrahim Ibrahim
 
 [![](https://img.shields.io/badge/Twitter-@devwraithe-informational?style=flat&logo=twitter&logoColor=white&color=00acee )](https://www.twitter.com/devwraithe)
 [![](https://img.shields.io/badge/GitHub-@devwraithe-informational?style=flat&logo=github&logoColor=white&color=211f1f )](https://www.github.com/devwraithe)
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 -->
 
 - 👻 You may also call me the **[@Devwraithe](https://www.github.com/devwraithe)**
-- 💻 I'm a **Frontend Software Engineer** - Freelance
-- 🎯 Focused mostly on **JavaScript** and it's frameworks
-- 😄 And obsessed with creating **accessible digital experiences**
+- 💻 I'm a **Frontend Engineer** and **Technical Writer**
+- 🎯 Focused mostly on **JavaScript** and **Dart**
+- 😄 Transforming **luxurious designs to reality**
 
 <!-- <hr style="border-width:1px;"> -->
-# 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+# Tech Stack
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-264de4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,3 +54,9 @@ Here are some ideas to get you started:
 
 <!-- ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4091d7)
 ![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=553c78) -->
+
+# Articles
+
+- [Bidirectional Centering with CSS](https://dev.to/devwraithe/bidirectional-centering-with-css-78g)
+- [Introduction to Sass Mixins](https://dev.to/devwraithe/introduction-to-mixins-in-sass-2h2j)
+- [Opening a link in a new browser tab with HTML](https://dev.to/devwraithe/opening-a-link-in-a-new-browser-tab-using-html-7gh)

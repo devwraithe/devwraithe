@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Next-211f1f?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Nuxt-3b8070?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![](https://img.shields.io/badge/Sass-cd6799?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind-4091d7?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-553c78?style=for-the-badge&logo=bootstrap&logoColor=white)

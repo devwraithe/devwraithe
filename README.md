@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 I'm addicted to transforming **luxurious designs to working applications**
 - ⚡ Fun fact about me, I'm infected with the **virus of perfection**
 - 📫 You can reach me at ibrahimibrahim851@outlook.com
-- 🗒️ You can have a look at my resume [here](https://docs.google.com/document/d/1uVahcV_BAMouQ2jOI5jAsqKaSODSpIQwyh-eE50ObMo/edit?usp=sharing)
+- 🗒️ You can have a look at my resume [here](https://docs.google.com/document/d/1WGgAezfWhbcJSd7PBxN10e4XkC3RxP2gCpUt_UDq8EM/edit?usp=sharing)
 
 <!-- <hr style="border-width:1px;"> -->
 # Tools & Technologies

@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm a Software Engineer focusing on using Dart and Flutter to develop cutting edge applications for different platforms. I have a passion for learning and I plan to expand my skillset in teh future. If you like or found value in one of the things I've created, please feel free to give me a shoutout at <a href="twiter.com/devwraithe">devwraithe</a> or you can send me a <a href="mailto:ibrahimibrahim851@outlook.com">mail</a>. Feel free to reach out to me if you have any questions, something you think I could work on or just to say Hi.
+
 - 👻 You may also call me the **[@devwraithe](https://www.github.com/devwraithe)**
 - 💻 I'm a **Software Engineer** and I fancy myself a **Craftsman**
 - 🎯 I'm obsessed about making magic with **Dart** and **Google Flutter**

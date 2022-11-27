@@ -17,6 +17,8 @@ I develop cutting edge applications for different platforms using Dart and the F
 [![](https://img.shields.io/badge/LinkedIn-@ibrahimaibrahim-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1 )](https://linkedin.com/in/ibrahimaibrahim)
 [![](https://img.shields.io/badge/Gmail-@devwraithe-informational?style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:ibrahimibrahim851@outlook.com)
 
-## 🔥 GitHub Stats
+## 🔥 Profile Statistics
 
-![Ibrahim Ibrahim Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
+<br/><br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)

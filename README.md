@@ -29,7 +29,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 
 ## 🔥 Profile Statistics
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
 <br/><br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)

@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Ibrahim Ibrahim
+### Hi! I'm Ibrahim Ibrahim, a Software Engineer and Craftsman
 
-### I'm a Software Engineer and Craftsman
 - 👷‍♂️ I have more than 5 years of experience working with Dart and Flutter
 - 💙 I'm passionate about transforming ideas and designs to software applications
 - 🤝 I've collaborated with brands in different sectors such as ecommerce and fintech
@@ -18,7 +17,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-264de4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white) -->
 
-## 📞 Get In Touch
+### You can reach out to me via
 
 <!-- [![](https://img.shields.io/badge/Twitter-@devwraithe-informational?style=flat&logo=twitter&logoColor=white&color=00acee )](https://www.twitter.com/devwraithe)
 [![](https://img.shields.io/badge/LinkedIn-@ibrahimaibrahim-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1 )](https://linkedin.com/in/ibrahimaibrahim)
@@ -28,7 +27,7 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 
-## 🔥 Profile Statistics
+### A little something about my profile
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
 <br/><br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)

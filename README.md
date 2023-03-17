@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-264de4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white) -->
 
-## ☎️ Get In Touch
+## 📞 Get In Touch
 
 <!-- [![](https://img.shields.io/badge/Twitter-@devwraithe-informational?style=flat&logo=twitter&logoColor=white&color=00acee )](https://www.twitter.com/devwraithe)
 [![](https://img.shields.io/badge/LinkedIn-@ibrahimaibrahim-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1 )](https://linkedin.com/in/ibrahimaibrahim)

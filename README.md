@@ -27,7 +27,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 
 ### A little something about my profile
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=3&margin-w=15&margin-h=15)]
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devwraithe&theme=radical&column=4&margin-w=15&margin-h=15)]
 <br/><br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
 <br/><br/>

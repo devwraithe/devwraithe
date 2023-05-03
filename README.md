@@ -1,4 +1,4 @@
-### Hello 👋 I'm Ibrahim Ibrahim, a Software Engineer and Craftsman
+### Hello 👋 I'm Ibrahim Ibrahim, a Mobile Engineer & Craftsman
 
 - 👷‍♂️ More than 5 years of experience working with Dart and Flutter
 - 💙 Passionate about transforming ideas and designs to software applications

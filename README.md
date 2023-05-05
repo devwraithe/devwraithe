@@ -34,3 +34,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)
 <br/><br/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D)
+
+### Some of my works
+
+| Fineline Coffee Co |
+| -------- |
+| https://user-images.githubusercontent.com/39105147/236560236-bf01ea22-7843-4ed7-b426-b8cdbbbf013a.mov |

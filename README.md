@@ -68,15 +68,16 @@
 	</td>
     </tr>
     <tr>
-	<th>Ground News</th>
+	<th>Ground News</th>	
     </tr>
     <tr>
 	<td>
 	    <img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
 	</td>
     </tr>
+    <tr>
 	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
+	    🔗 <a href="https://www.github.com/devwraithe/ground_news">View Repository</a>
 	</td>
     </tr>
   </tbody>

@@ -77,7 +77,7 @@
     </tr>
     <tr>
 	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/ground_news">View Repository</a>
+	    🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
 	</td>
     </tr>
   </tbody>

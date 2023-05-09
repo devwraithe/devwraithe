@@ -40,44 +40,44 @@
 <table>
   <tbody height="300%">
     <tr>
-			<th>Fineline Coffee Co.</th>	
-			<th>Netflix</th>	
-			<th>Parallel 37</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://user-images.githubusercontent.com/39105147/236547945-288f78cc-83cf-4673-a192-fddad68c5ca9.png" alt="fineline_coffee"></img>
-			</td>
-			<td>
-			  <img src="https://github.com/devwraithe/netflix/blob/master/assets/screenshots/intro.png" alt="netflix"></img>
-			</td>
-		  <td>
-			  <img src="https://github.com/devwraithe/parallel_37/raw/master/assets/shots/a.png" alt="parallel_37"></img>
-			</td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				🔗 <a href="https://www.github.com/devwraithe/fineline_coffee">View Repository</a>
-			</td>
-			<td>
-				🔗 <a href="https://www.github.com/devwraithe/netflix">View Repository</a>
-			</td>
-			<td>
-				🔗 <a href="https://www.github.com/devwraithe/parallel_37">View Repository</a>
-			</td>
-		</tr>
-		 <tr>
-			<th>Ground News</th>
-		</tr>
-		<tr>
-			<td>
-				<img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
-			</td>
-		</tr>
-			<tr>
-				🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
-			</td>
-		</tr>
+	<th>Fineline Coffee Co.</th>	
+	<th>Netflix</th>	
+	<th>Parallel 37</th>
+    </tr>
+    <tr>
+	<td>
+	    <img src="https://user-images.githubusercontent.com/39105147/236547945-288f78cc-83cf-4673-a192-fddad68c5ca9.png" alt="fineline_coffee"></img>
+	</td>
+	<td>
+	    <img src="https://github.com/devwraithe/netflix/blob/master/assets/screenshots/intro.png" alt="netflix"></img>
+	</td>
+	<td>
+	    <img src="https://github.com/devwraithe/parallel_37/raw/master/assets/shots/a.png" alt="parallel_37"></img>
+	</td>
+	</td>
+    </tr>
+    <tr>
+	<td>
+	    🔗 <a href="https://www.github.com/devwraithe/fineline_coffee">View Repository</a>
+	</td>
+	<td>
+	    🔗 <a href="https://www.github.com/devwraithe/netflix">View Repository</a>
+	</td>
+	<td>
+	    🔗 <a href="https://www.github.com/devwraithe/parallel_37">View Repository</a>
+	</td>
+    </tr>
+    <tr>
+	<th>Ground News</th>
+    </tr>
+    <tr>
+	<td>
+	    <img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
+	</td>
+    </tr>
+	<td>
+	    🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
+	</td>
+    </tr>
   </tbody>
 <table>

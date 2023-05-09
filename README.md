@@ -43,7 +43,6 @@
 			<th>Fineline Coffee Co.</th>	
 			<th>Netflix</th>	
 			<th>Parallel 37</th>
-			<th>Ground News</th>
 		</tr>
 		<tr>
 			<td>
@@ -56,9 +55,6 @@
 			  <img src="https://github.com/devwraithe/parallel_37/raw/master/assets/shots/a.png" alt="parallel_37"></img>
 			</td>
 			</td>
-		  <td>
-			  <img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
-			</td>
 		</tr>
 		<tr>
 			<td>
@@ -70,7 +66,16 @@
 			<td>
 				🔗 <a href="https://www.github.com/devwraithe/parallel_37">View Repository</a>
 			</td>
+		</tr>
+		 <tr>
+			<th>Ground News</th>
+		</tr>
+		<tr>
 			<td>
+				<img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
+			</td>
+		</tr>
+			<tr>
 				🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
 			</td>
 		</tr>

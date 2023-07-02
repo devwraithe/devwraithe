@@ -45,10 +45,9 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 [![](https://img.shields.io/badge/LinkedIn-@ibrahimaibrahim-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1 )](https://linkedin.com/in/ibrahimaibrahim)
 [![](https://img.shields.io/badge/Gmail-@devwraithe-informational?style=flat&logo=gmail&logoColor=white&color=ea4335)](mailto:ibrahimibrahim851@outlook.com) -->
 
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
-
 
 ## Some of my works
 

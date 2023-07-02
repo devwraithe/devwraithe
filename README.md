@@ -39,7 +39,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devwraithe&theme=radical&margin-w=15&margin-h=15)
 
-## ☎️ Connect with me
+## Connect with me
 
 <!-- [![](https://img.shields.io/badge/Twitter-@devwraithe-informational?style=flat&logo=twitter&logoColor=white&color=00acee )](https://www.twitter.com/devwraithe)
 [![](https://img.shields.io/badge/LinkedIn-@ibrahimaibrahim-informational?style=flat&logo=linkedin&logoColor=white&color=0072b1 )](https://linkedin.com/in/ibrahimaibrahim)

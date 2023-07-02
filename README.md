@@ -2,17 +2,15 @@
 
 <!-- My name is Ibrahim Ibrahim 😄 I'm a driven, self-taught software engineer with a burning passion for transforming ideas into working, realistic software products with captivating interfaces using Dart and Flutter. I take immense pride in creating applications with robust architectures, and a top-quality codebase that solves problems and delight users with seamless experiences. -->
 
-You can also call me Devwraithe. I'm a driven, self-taught software engineer with a burning passion for transforming ideas into functional software products. With a focus on Dart and Flutter, I specialize in crafting captivating interfaces that bring concepts to life. I'm also committed to creating applications with robust architectures, top-quality codebases, and unwavering attention to detail. For me, software development is more than just problem-solving; it's about crafting seamless experiences that not only meet but exceed user expectations. I thrive on the excitement of turning abstract ideas into tangible, realistic software solutions.
+You can also call me Devwraithe. I'm a driven, self-taught software engineer with a passion for transforming ideas into functional software products. With a focus on Dart and Flutter, I specialize in crafting captivating interfaces that bring concepts to life. I'm also committed to creating applications with robust architectures, top-quality codebases, and unwavering attention to detail. For me, software development is more than just problem-solving; it's about crafting seamless experiences that not only meet but exceed user expectations. I thrive on the excitement of turning abstract ideas into tangible, realistic software solutions.
 
 I'm also an insatiable learner, constantly seeking out new technologies and their potential applications in diverse industries. Exploring the possibilities of these cutting-edge tools for software development ignites my curiosity and fuels my passion for innovation. I find great joy in unraveling the ways in which these technologies can transform various sectors, pushing the boundaries of what's possible in the world of software engineering.
 
 ## More about me
-- 🔭 I’m currently working on integrating complex animations in Flutter
-- 🌱 I’m currently learning Swift/SwiftUI for Native iOS Development
-- 👯 I’m looking to collaborate on commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about software development using Dart and Flutter
-- 📫 How to reach me: Twitter, Instagram
+- 🔭 Working on building apps to solve one problem at a time
+- 🌱 Currently learning Swift and SwiftUI for iOS Development
+- 🎉 One fun fact is that I'm addicted to nature and wildlife 😁
+- 📫 Reach out to me via [**Email**](mailto:ibrahimibrahim851@outlook.com), [**LinkedIn**](https://www.linkedin.com/in/devwraithe), or [**Twitter**](https://www.twitter.com/devwraithe)
 
 <!-- - 👷‍♂️ I have 5+ years of experience with Dart & Flutter
 - 💙 I enjoy designing mobile apps that fix problems
@@ -31,7 +29,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 ![](https://img.shields.io/badge/Visual_Studio_Code-264de4?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white) -->
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
 <br/><br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)
@@ -52,7 +50,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 
 
-## 💻 Some of my works
+## Some of my works
 
 <table>
   <tbody height="300%">

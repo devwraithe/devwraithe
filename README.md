@@ -1,4 +1,6 @@
-### Hello 👋 I'm Ibrahim Ibrahim, I'm a Mobile Engineer & Craftsman
+### Hello there 👋 I'm Devwraithe
+
+<p>I am Ghazi Khan working as Sr. Software Engineer @ Tech9. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress. Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.</p>
 
 - 👷‍♂️ I have 5+ years of experience with Dart & Flutter
 - 💙 I enjoy designing mobile apps that fix problems

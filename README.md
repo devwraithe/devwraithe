@@ -7,6 +7,7 @@ You can also call me Devwraithe. I'm a driven, self-taught software engineer wit
 I'm also an insatiable learner, constantly seeking out new technologies and their potential applications in diverse industries. Exploring the possibilities of these cutting-edge tools for software development ignites my curiosity and fuels my passion for innovation. I find great joy in unraveling the ways in which these technologies can transform various sectors, pushing the boundaries of what's possible in the world of software engineering.
 
 ## More about me
+- ⏲️ More than 5 years of experience building applications
 - 🔭 Working on building apps to solve one problem at a time
 - 🌱 Currently learning Swift and SwiftUI for iOS Development
 - 🎉 One fun fact is that I'm addicted to nature and wildlife 😁

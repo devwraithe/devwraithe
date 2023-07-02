@@ -1,11 +1,11 @@
 ### Hello 👋 I'm Ibrahim Ibrahim, I'm a Mobile Engineer & Craftsman
 
-- 👷‍♂️ I have 6+ years of experience with Flutter
-- 💙 I enjoy designing mobile apps that solve problems
-- 🤝 I've worked with companies in fintech and e-commerce
-- 🛠️ I'm currently making magic at **[Digital Space Agency](http://digitalspaceagency.com/)**
+- 👷‍♂️ I have 5+ years of experience with Dart & Flutter
+- 💙 I enjoy designing mobile apps that fix problems
+- 🤝 I've worked with companies in Fintech and Forex
+- 🛠️ I'm currently improving my Flutter development skills 
 - 🧠 I love exploring the usage of Flutter in different industries
-- ⚡ I'm a very big fan of technology, nature and wildlife 😄
+- ⚡ I'm a very big fan of technology, nature, and wildlife 😄
 
 <!-- ## 🛠️ Tools and Technologies
 

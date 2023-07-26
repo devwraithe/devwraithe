@@ -31,7 +31,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 ![](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white) -->
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devwraithe&theme=radical&show_icons=true&count_private=true)
 <br/><br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&layout=compact&theme=radical)
 <br/><br/>

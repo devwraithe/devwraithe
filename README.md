@@ -9,7 +9,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 ## More about me
 - ⏲️ More than 5 years of experience building applications
 - 🔭 Working on building apps to solve one problem at a time
-- 🌱 Currently learning Swift and SwiftUI for iOS Development
+- 🌱 Currently exploring the nook and cranny of Flutter
 - 🎉 One fun fact is that I'm addicted to nature and wildlife 😁
 - 📫 Reach out to me via [**Email**](mailto:ibrahimibrahim851@outlook.com), [**LinkedIn**](https://www.linkedin.com/in/devwraithe), or [**Twitter**](https://www.twitter.com/devwraithe)
 

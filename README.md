@@ -30,23 +30,30 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
   <tbody height="300%">
     <tr>
 	<th>Description</th>
-	<th>Screenshot</th>
-	<th>Links</th>	
+	<th width="35%">Links</th>
     </tr>
     <tr>
 	<td>
 	    <div>
-		    <h3>Quick Flashcards</h3>
-		    <p>A mobile app I've designed for creating flashcards with ease. I've harnessed the power of Google Firebase Firestore to handle the backend seamlessly, and Riverpod helps to manage the app's state effortlessly.</p>
-		    <a href="https://github.com/devwraithe/quick-flashcards">Visit the repository</a>
+		<h3>Quick Flashcards</h3>
+		<p>A user-friendly mobile app designed for creating and managing flashcards quickly and seamlessly. This project runs on Flutter, Riverpod and Firebase.</p>
+		<h4>Key Features</h4>
+		<ul>
+		<li>Create flashcards with ease.</li>
+		<li>Organized flashcards into stacked decks.</li>
+		<li>Real-time syncing across devices using Firebase.</li>
+		<li>User authentication and secure cloud storage for flashcards.</li>
+		<li>Comprehensive unit and widget tests (Coming soon!)</li>
+		</ul>
+		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/quick-flashcards">README.md</a></p>  
 	    </div>
 	</td>
 	<td>
-	    <p>Screenshot content</p>
-	</td>
-	<td>
-	    <p>Link content</p>
-	</td>
+	  <div>
+		<a href="https://github.com/devwraithe/quick-flashcards">
+  		<img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=quick-flashcards&theme=radical" alt="Flutter Puzzle Hack Project Repo" />
+  		</a>
+	  </div>
 	</td>
     </tr>
   </tbody>

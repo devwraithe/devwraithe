@@ -12,8 +12,8 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 
 ## GitHub Statistics
 <div style="display: flex; justify-content: space-between;">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
-    <img width="49%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
+    <img src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
 </div>
 
 ## Open Source Projects

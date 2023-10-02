@@ -16,11 +16,6 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
     <img width="49%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
 </div>
 
-## Connect with me
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
-
 ## Open Source Projects
 <table>
 <!-- Project -->
@@ -29,6 +24,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<th>Description</th>
 	<th width="35%">Links</th>
     </tr>
+    <!-- Quick Flashcards -->
     <tr>
 	<td>
 	    <div>
@@ -47,16 +43,37 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	</td>
 	<td>
 	  <div>
-		<a href="https://github.com/devwraithe/quick-flashcards">
-  		<img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=quick-flashcards&theme=radical" alt="Flutter Puzzle Hack Project Repo" />
-  		</a>
+	      <a href="https://github.com/devwraithe/quick-flashcards">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=quick-flashcards&theme=radical" alt="Quick Flashcards" />
+  	      </a>
+	  </div>
+	</td>
+    </tr>
+    <!-- Quick Flashcards -->
+    <tr>
+	<td>
+	    <div>
+		<h3>Nasa APod</h3>
+		<p>Coming soon!</p>
+		<h4>Key Features</h4>
+		<ul>
+		<li>Coming soon!</li>
+		</ul>
+		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/nasa_apod">README.md</a></p>  
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://github.com/devwraithe/nasa_apod">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=nasa_apod&theme=radical" alt="NASA Astronomy Picture of the Day" />
+  	      </a>
 	  </div>
 	</td>
     </tr>
   </tbody>
 <table>
 
-## Some of my works
+<!-- ## Some of my works
 
 <table>
   <tbody height="300%">
@@ -102,4 +119,10 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	</td>
     </tr>
   </tbody>
-<table>
+<table> -->
+
+## Connect with me
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
+

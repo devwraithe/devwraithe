@@ -1,7 +1,4 @@
 ## Hello there 👋 I'm Ibrahim Ibrahim
-
-<!-- My name is Ibrahim Ibrahim 😄 I'm a driven, self-taught software engineer with a burning passion for transforming ideas into working, realistic software products with captivating interfaces using Dart and Flutter. I take immense pride in creating applications with robust architectures, and a top-quality codebase that solves problems and delight users with seamless experiences. -->
-
 You can also call me Devwraithe. I'm a driven, self-taught software engineer with a passion for transforming ideas into functional software products. With a focus on Dart and Flutter, I specialize in crafting captivating interfaces that bring concepts to life. I'm also committed to creating applications with robust architectures, top-quality codebases, and unwavering attention to detail. For me, software development is more than just problem-solving; it's about crafting seamless experiences that not only meet but exceed user expectations. I thrive on the excitement of turning abstract ideas into tangible, realistic software solutions.
 
 I'm also an insatiable learner, constantly seeking out new technologies and their potential applications in diverse industries. Exploring the possibilities of these cutting-edge tools for software development ignites my curiosity and fuels my passion for innovation. I find great joy in unraveling how these technologies can transform various sectors, pushing the boundaries of what's possible in the world of software engineering.
@@ -15,8 +12,8 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 
 ## GitHub Statistics
 <div style="display: flex; justify-content: space-between;">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
-    <img width="50%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
 </div>
 
 ## Connect with me

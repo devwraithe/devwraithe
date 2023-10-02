@@ -33,7 +33,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<td>
 	    <div>
 		<h3>Quick Flashcards</h3>
-		<p>A user-friendly mobile app designed for creating and managing flashcards quickly and seamlessly. This project runs on Flutter, Riverpod and Firebase.</p>
+		<p>A user-friendly mobile app designed for creating and managing flashcards quickly and seamlessly. Powered by Flutter, Riverpod and Firebase.</p>
 		<h4>Key Features</h4>
 		<ul>
 		<li>Create flashcards with ease.</li>

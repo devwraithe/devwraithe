@@ -38,7 +38,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<td>
 	  <div>
 	      <a href="https://play.google.com/store/apps/details?id=com.evergreen_ffx">
-  	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/c41035a3-6bc6-4159-996d-b02aaa9cfbc7" alt="Evergreen on Google Play" />
+  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Evergreen on Google Play" />
   	      </a>
 	      <a href="https://evergreenffx.com/">
   	      <p><b>🔗 Visit the website</b></p>
@@ -60,10 +60,10 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<td>
 	  <div>
 	      <a href="https://play.google.com/store/apps/details?id=com.finosell.www.finosell">
-  	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/c41035a3-6bc6-4159-996d-b02aaa9cfbc7" alt="Finosell on Google Play" width="100%" />
+  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Finosell on Google Play" width="100%" />
   	      </a>
 	      <a href="https://apps.apple.com/us/app/finosell/id1562120098">
-	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/15e32fb9-ebf1-4186-abcb-c05209e2bfdd" alt="Finosell on iOS App Store" width="100%"/>
+	      <img src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Finosell on iOS App Store" width="100%"/>
 	      </a>
 	      <a href="https://finosell.com/">
   	      <p><b>🔗 Visit the website</b></p>
@@ -129,54 +129,6 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
     </tr>
   </tbody>
 <table>
-
-<!-- ## Some of my works
-
-<table>
-  <tbody height="300%">
-    <tr>
-	<th>Fineline Coffee Co.</th>	
-	<th>Netflix</th>	
-	<th>Parallel 37</th>
-    </tr>
-    <tr>
-	<td>
-	    <img src="https://user-images.githubusercontent.com/39105147/236547945-288f78cc-83cf-4673-a192-fddad68c5ca9.png" alt="fineline_coffee"></img>
-	</td>
-	<td>
-	    <img src="https://github.com/devwraithe/netflix/blob/master/assets/screenshots/intro.png" alt="netflix"></img>
-	</td>
-	<td>
-	    <img src="https://github.com/devwraithe/parallel_37/raw/master/assets/shots/a.png" alt="parallel_37"></img>
-	</td>
-	</td>
-    </tr>
-    <tr>
-	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/fineline_coffee">View Repository</a>
-	</td>
-	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/netflix">View Repository</a>
-	</td>
-	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/parallel_37">View Repository</a>
-	</td>
-    </tr>
-    <tr>
-	<th>Ground News</th>	
-    </tr>
-    <tr>
-	<td>
-	    <img src="https://github.com/devwraithe/ground-news/blob/master/assets/screenshots/1.png" alt="ground_news"></img>
-	</td>
-    </tr>
-    <tr>
-	<td>
-	    🔗 <a href="https://www.github.com/devwraithe/ground-news">View Repository</a>
-	</td>
-    </tr>
-  </tbody>
-<table> -->
 
 ## Connect with me
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)

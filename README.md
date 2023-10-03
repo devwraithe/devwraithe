@@ -111,10 +111,13 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<td>
 	    <div>
 		<h3>Nasa APod</h3>
-		<p>Coming soon!</p>
+		<p>An application showing pictures from NASA's "Astronomy Picture of the Day" website in a fashion manner. Powered by Flutter, BLoC, Hive and <a href="https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua">NASA API</a>.</p>
 		<h4>Key Features</h4>
 		<ul>
-		<li>Coming soon!</li>
+		<li>Search functionality (Find by title and date)</li>
+		<li>Offline support using Hive (works with airplane mode)</li>
+		<li>Support for multiple resolutions and sizes</li>
+		<li>Pull-to-refresh (works in both online and offline modes)</li>
 		</ul>
 		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/nasa_apod">README.md</a></p>  
 	    </div>

@@ -22,7 +22,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
   <body height="300%">
     <tr>
 	<th>Description</th>
-	<th width="20%">Links</th>
+	<th width="25%">Links</th>
     </tr>
     <!-- EvergreenFFX -->
     <tr>

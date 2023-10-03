@@ -12,13 +12,70 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 
 ## GitHub Statistics
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
-    <img src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
+    <img width="46%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
 </div>
+
+## Professional Projects
+<table>
+<!-- Project -->
+  <body height="300%">
+    <tr>
+	<th>Description</th>
+	<th width="20%">Links</th>
+    </tr>
+    <!-- EvergreenFFX -->
+    <tr>
+	<td>
+	    <div>
+		<h3>EvergreenFFX</h3>
+		<p>EvergreenFFX is an automated trading system that uses a reliable AI to help beginners and expert traders win at forex.</p>
+		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
+		<p>- <b>Timeframe - </b>📆 November 2022 till June 2023 (7 Months)</p>
+		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://play.google.com/store/apps/details?id=com.evergreen_ffx">
+  	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/c41035a3-6bc6-4159-996d-b02aaa9cfbc7" alt="Evergreen on Google Play" />
+  	      </a>
+	      <a href="https://evergreenffx.com/">
+  	      <p><b>🔗 Visit the website</b></p>
+  	      </a>
+	  </div>
+	</td>
+    </tr>
+    <!-- Dutiful -->
+    <tr>
+	<td>
+	    <div>
+		<h3>Finosell</h3>
+		<p>Finosell is a technology company designed to provide business and financial management solutions to individuals and businesses in Africa.</p>
+		<p>- <b>Role - </b> Mobile Engineer</p>
+		<p>- <b>Timeframe - </b>📆 November 2022 till January 2023 (3 Months)</p>
+		<p>- <b>Tools - </b>🛠️ Dart, Flutter, Provider</p>
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://play.google.com/store/apps/details?id=com.finosell.www.finosell">
+  	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/c41035a3-6bc6-4159-996d-b02aaa9cfbc7" alt="Finosell on Google Play" width="100%" />
+  	      </a>
+	      <a href="https://apps.apple.com/us/app/finosell/id1562120098">
+	      <img src="https://github.com/devwraithe/devwraithe/assets/39105147/15e32fb9-ebf1-4186-abcb-c05209e2bfdd" alt="Finosell on iOS App Store" width="100%"/>
+	      </a>
+	      <a href="https://finosell.com/">
+  	      <p><b>🔗 Visit the website</b></p>
+  	      </a>
+	  </div>
+	</td>
+    </tr>
+  </tbody>
+<table>
 
 ## Open Source Projects
 <table>
-<!-- Project -->
   <tbody height="300%">
     <tr>
 	<th>Description</th>

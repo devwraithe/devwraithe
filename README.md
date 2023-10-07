@@ -106,7 +106,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	  </div>
 	</td>
     </tr>
-    <!-- Quick Flashcards -->
+    <!-- Nasa Apod -->
     <tr>
 	<td>
 	    <div>
@@ -126,6 +126,30 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	  <div>
 	      <a href="https://github.com/devwraithe/nasa_apod">
   	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=nasa_apod&theme=radical" alt="NASA Astronomy Picture of the Day" />
+  	      </a>
+	  </div>
+	</td>
+    </tr>
+    <!-- Fineline Coffee -->
+    <tr>
+	<td>
+	    <div>
+		<h3>Fineline Coffee</h3>
+		<p>A prototype application designed to help customers wait times by allowing them to preorder on the go. Powered by Flutter and Riverpod.</p>
+		<h4>Key Features</h4>
+		<ul>
+		<li>Preview different categories of drinks</li>
+		<li>Straightforward navigation and orders selection</li>
+		<li>Orders customization (e.g. add/remove toppings and size selection)</li>
+		<li>Mock payment methods (In-app balance, Mastercard, Visa)</li>
+		</ul>
+		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/fineline_coffee">README.md</a></p>  
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://github.com/devwraithe/fineline_coffee">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=fineline_coffee&theme=radical" alt="Fineline Coffee Co." />
   	      </a>
 	  </div>
 	</td>

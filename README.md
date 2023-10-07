@@ -93,7 +93,6 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 		<li>Organized flashcards into stacked decks.</li>
 		<li>Real-time syncing across devices using Firebase.</li>
 		<li>User authentication and secure cloud storage for flashcards.</li>
-		<li>Comprehensive unit and widget tests (Coming soon!)</li>
 		</ul>
 		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/quick-flashcards">README.md</a></p>  
 	    </div>

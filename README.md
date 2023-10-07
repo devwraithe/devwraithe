@@ -31,7 +31,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 		<h3>EvergreenFFX</h3>
 		<p>EvergreenFFX is an automated trading system that uses a reliable AI to help beginners and expert traders win at forex.</p>
 		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 November 2022 till June 2023 (7 Months)</p>
+		<p>- <b>Timeframe - </b>📆 November 2022 till June 2023 (8 Months)</p>
 		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
 	    </div>
 	</td>

@@ -24,7 +24,29 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<th>Description</th>
 	<th width="22%">Links</th>
     </tr>
-    <!-- EvergreenFFX -->
+    <!-- Trac Trac -->
+    <tr>
+	<td>
+	    <div>
+		<h3>Trac Trac Plus</h3>
+		<p>Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.</p>
+		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
+		<p>- <b>Timeframe - </b>📆 June 2023 till October 2023 (5 Months)</p>
+		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://play.google.com/store/apps/details?id=tractrac.trac_trac">
+  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Trac Trac Plus on Google Play" />
+  	      </a>
+ 	      <a href="https://www.tractrac.co/">
+  	      <p><b>🔗 Visit the website</b></p>
+	      </a>
+	  </div>
+	</td>
+    </tr>
+    <!-- Delivery Page Rider -->
     <tr>
 	<td>
 	    <div>

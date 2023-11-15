@@ -125,6 +125,30 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<th>Description</th>
 	<th width="35%">Links</th>
     </tr>
+    <!-- Weather Loom -->
+    <tr>
+	<td>
+	    <div>
+		<h3>WeatherLoom</h3>
+		<p>An app designed to show real-time, up-to-date weather information. Powered by Flutter, BLoC and OpenWeather API</p>
+		<h4>Key Features</h4>
+		<ul>
+		<li>Search for locations with Google Places</li>
+		<li>Updated weather forecast</li>
+		<li>Images based on weather condition</li>
+		<li>24 hours and 7 days forecasts</li>
+		</ul>
+		<p>You can read more detailed information about the project on the <a href="https://github.com/devwraithe/weather_loom">README.md</a></p>  
+	    </div>
+	</td>
+	<td>
+	  <div>
+	      <a href="https://github.com/devwraithe/weather_loom">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=devwraithe&repo=weather_loom&theme=radical" alt="weather_loom" />
+  	      </a>
+	  </div>
+	</td>
+    </tr>
     <!-- Quick Flashcards -->
     <tr>
 	<td>

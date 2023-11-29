@@ -62,6 +62,9 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage_rider">
   	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Rider on Google Play" />
   	      </a>
+	      <a href="https://apps.apple.com/ng/app/delivery-page-rider/id6472376758">
+	      <img src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Finosell on iOS App Store" width="100%"/>
+	      </a>
  	      <a href="https://deliverypage.africa/">
   	      <p><b>🔗 Visit the website</b></p>
 	      </a>

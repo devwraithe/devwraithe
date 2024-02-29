@@ -38,7 +38,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	<td>
 	  <div>
 	      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Trac Trac Plus on Google Play" />
+  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Dispatch on Google Play" />
   	      </a>
 	  </div>
 	</td>

@@ -17,150 +17,51 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 </div>
 
 ## Professional Projects
-<table>
-<!-- Project -->
-  <body height="300%">
-    <tr>
-	<th>Description</th>
-	<th width="22%">Links</th>
-    </tr>
-    <!-- Delivery Page Dispatch -->
-    <tr>
-	<td>
-	    <div>
-		<h3>Delivery Page Dispatch</h3>
-		<p>Logistics management that helps delivery businesses start accepting online bookings, payments, tracking, and dispatching</p>
-		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 November 2023 till December 2023 (2 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Dispatch on Google Play" />
-  	      </a>
-	  </div>
-	</td>
-    </tr>
-    <!-- No Worry -->
-    <tr>
-	<td>
-	    <div>
-		<h3>No Worry</h3>
-		<p>Order easily, track your delivery in real-time, and enjoy the speed and reliability that make us your go-to delivery partner.</p>
-		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 October 2023 till December 2023 (3 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.focedia.noworry">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="No Worry on Google Play"/>
-  	      </a>
- 	      <<a href="https://deliverypage.africa/">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
-	  </div>
-	</td>
-    </tr>	  
-    <!-- Trac Trac -->
-    <tr>
-	<td>
-	    <div>
-		<h3>Trac Trac Plus</h3>
-		<p>Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.</p>
-		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 June 2023 till October 2023 (5 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.tractrac.trac_trac">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Trac Trac Plus on Google Play" />
-  	      </a>
- 	      <a href="https://www.tractrac.co/">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
-	  </div>
-	</td>
-    </tr>
-    <!-- Delivery Page Rider -->
-    <tr>
-	<td>
-	    <div>
-		<h3>Delivery Page Rider</h3>
-		<p>Delivery Page Rider is the ultimate application for simplified, hassle-free deliveries between senders and receivers</p>
-		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 August 2023 till October 2023 (3 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage_rider">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Rider on Google Play" />
-  	      </a>
-	      <a href="https://apps.apple.com/ng/app/delivery-page-rider/id6472376758">
-	      <img src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Finosell on iOS App Store" width="100%"/>
-	      </a>
- 	      <a href="https://deliverypage.africa/">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
-	  </div>
-	</td>
-    </tr>
-    <!-- EvergreenFFX -->
-    <tr>
-	<td>
-	    <div>
-		<h3>EvergreenFFX</h3>
-		<p>EvergreenFFX is an automated trading system that uses a reliable AI to help beginners and expert traders win at forex.</p>
-		<p>- <b>Role - </b> Mobile Engineer, Flutter</p>
-		<p>- <b>Timeframe - </b>📆 November 2022 till June 2023 (8 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, BLoC</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.evergreen_ffx">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Evergreen on Google Play" />
-  	      </a>
-	      <a href="https://evergreenffx.com/">
-  	      <p><b>🔗 Visit the website</b></p>
-  	      </a>
-	  </div>
-	</td>
-    </tr>
-    <!-- Dutiful -->
-    <tr>
-	<td>
-	    <div>
-		<h3>Finosell</h3>
-		<p>Finosell is a technology company designed to provide business and financial management solutions to individuals and businesses in Africa.</p>
-		<p>- <b>Role - </b> Mobile Engineer</p>
-		<p>- <b>Timeframe - </b>📆 November 2022 till January 2023 (3 Months)</p>
-		<p>- <b>Tools - </b>🛠️ Dart, Flutter, Provider</p>
-	    </div>
-	</td>
-	<td>
-	  <div>
-	      <a href="https://play.google.com/store/apps/details?id=com.finosell.www.finosell">
-  	      <img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Finosell on Google Play" width="100%" />
-  	      </a>
-	      <a href="https://apps.apple.com/us/app/finosell/id1562120098">
-	      <img src="https://user-images.githubusercontent.com/50345358/161318659-5a9514f4-f900-455e-81e9-8c5426fd366d.svg" alt="Finosell on iOS App Store" width="100%"/>
-	      </a>
-	      <a href="https://finosell.com/">
-  	      <p><b>🔗 Visit the website</b></p>
-  	      </a>
-	  </div>
-	</td>
-    </tr>
-  </tbody>
-<table>
+<!-- Delivery Page Dispatch -->
+<div>
+   <h3>1. 🚴‍♂️ Delivery Page Dispatch</h3>
+   <p>Logistics management that helps delivery businesses start accepting online bookings, payments, tracking, and dispatching</p>
+   <ul>
+      <li><b>Role -</b> Mobile Engineer</li>
+      <li><b>Timeframe -</b> 📆 November 2023 till December 2023</li>
+      <li><b>Tools -</b> 🛠️ Dart, Flutter, BLoC</li>
+   </ul>
+   <div>
+      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage">
+  	<img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Dispatch on Google Play" />
+      </a>
+   </div>
+</div>
+<!-- Delivery Page Rider -->
+<div>
+   <h3>2. 🚴‍♂ Delivery Page Rider</h3>
+   <p>Logistics management that helps delivery businesses start accepting online bookings, payments, tracking, and dispatching</p>
+   <ul>
+      <li><b>Role -</b> Mobile Engineer</li>
+      <li><b>Timeframe -</b> 📆 November 2023 till December 2023</li>
+      <li><b>Tools -</b> 🛠️ Dart, Flutter, BLoC</li>
+   </ul>
+   <div>
+      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage">
+  	<img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Dispatch on Google Play" />
+      </a>
+   </div>
+</div>
+<!-- No Worry -->
+<div>
+   <h3>2. 🚚 No Worry</h3>
+   <p>Logistics management that helps delivery businesses start accepting online bookings, payments, tracking, and dispatching</p>
+   <ul>
+      <li><b>Role -</b> Mobile Engineer</li>
+      <li><b>Timeframe -</b> 📆 November 2023 till December 2023</li>
+      <li><b>Tools -</b> 🛠️ Dart, Flutter, BLoC</li>
+   </ul>
+   <div>
+      <a href="https://play.google.com/store/apps/details?id=com.focedia.deliverypage">
+  	<img src="https://user-images.githubusercontent.com/50345358/161318656-3c9d06f0-8782-4d6f-9d85-af9ef0246766.png" alt="Delivery Page Dispatch on Google Play" />
+      </a>
+   </div>
+</div>
 
 ## Open Source Projects
 <table>

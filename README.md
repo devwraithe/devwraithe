@@ -7,7 +7,7 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 - 📆 Over five (5) years of experience building applications (with lots of unfinished side projects 😂)
 - 🔭 Working on multiple projects to solve one problem at a time
 - 🌱 Currently learning everything I can in the world of Flutter 💙
-- 🎉 Fun fact - I'm a man of many names but most call me **Ibrahim**
+- 🎉 Fun fact - I'm a big fan of instrumental music, especially soundtracks
 - 📫 Get in touch with me via [**Email**](mailto:ibrahimibrahim851@outlook.com), [**LinkedIn**](https://www.linkedin.com/in/devwraithe), or [**Twitter**](https://www.twitter.com/devwraithe)
 
 ## GitHub Statistics

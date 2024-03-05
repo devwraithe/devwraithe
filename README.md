@@ -4,7 +4,7 @@ I am a driven, self-taught software engineer passionate about transforming ideas
 I'm also an insatiable learner, constantly seeking out new technologies and their potential applications in diverse industries. Exploring the possibilities of these cutting-edge tools for software development ignites my curiosity and fuels my passion for innovation. I find great joy in unraveling how these technologies can transform various sectors, pushing the boundaries of what's possible in software engineering.
 
 ## More about me
-- 📆 Over five (5) years of experience building applications (with lots of unfinished side projects 😂)
+- 📆 Over six (6) years of experience building applications (with lots of unfinished side projects 😂)
 - 🔭 Working on multiple projects to solve one problem at a time
 - 🌱 Currently learning everything I can in the world of Flutter 💙
 - 🎉 Fun fact - I'm a big fan of instrumental music, especially soundtracks

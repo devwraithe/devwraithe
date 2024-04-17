@@ -1,16 +1,17 @@
-## Hello there 👋 I'm Ibrahim Ibrahim
-I am a driven, self-taught software engineer passionate about transforming ideas into functional software products. With a focus on Dart and Flutter, I specialize in crafting captivating interfaces that bring concepts to life. I am also committed to creating applications with robust architectures, top-quality codebases, and unwavering attention to detail. For me, software development is more than just problem-solving; it's about crafting seamless experiences that meet and exceed user expectations. I thrive on the excitement of turning abstract ideas into tangible, realistic software solutions.
+## Greetings! 👋 I'm Ibrahim Ibrahim
+I'm an engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer. You can reach me via:
 
-I'm also an insatiable learner, constantly seeking out new technologies and their potential applications in diverse industries. Exploring the possibilities of these cutting-edge tools for software development ignites my curiosity and fuels my passion for innovation. I find great joy in unraveling how these technologies can transform various sectors, pushing the boundaries of what's possible in software engineering.
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
 
-## More about me
-- 📆 Over six (6) years of experience building applications
-- 🔭 Working on multiple projects to solve one problem at a time
-- 🌱 Learning everything I can in the world of Flutter 💙
-- 🎉 Fun fact - I'm a big fan of instrumental music, especially soundtracks
-- 📫 Get in touch with me via [**Email**](mailto:ibrahimibrahim851@outlook.com), [**LinkedIn**](https://www.linkedin.com/in/devwraithe), or [**Twitter**](https://www.twitter.com/devwraithe)
+A little more about me 😉
+- 🔭 Currently, I'm crafting top-notch software solutions, tackling one problem at a time.
+- 🌱 My focus is on mastering the application of Flutter 💙 across diverse industries, with no end to my learning journey in sight!
+- 💬 Need insights on Dart or Flutter? Ask away, and I'll do my best to provide the answers you seek.
+- 🎉 Here's a fun fact: I'm a huge fan of instrumental music and art brings me joy.
 
-## GitHub Statistics
+## GitHub Stats
 <div style="display: flex; justify-content: space-between;">
     <img width="46%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
     <img width="46%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
@@ -266,10 +267,4 @@ I'm also an insatiable learner, constantly seeking out new technologies and thei
 	</td>
     </tr>
   </tbody>
-<table>
-
-## Connect with me
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
-
+</table>

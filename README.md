@@ -24,8 +24,6 @@ Logistics management that helps delivery businesses start accepting online booki
 <p>- <b>Timeframe:</b> November 2023 till December 2023 (2 Months)</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.deliverypage)
-[![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)]()
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)]()
 
 ### 2. No Worry
 Order easily, track your delivery in real time, and enjoy the speed and reliability that make us your go-to delivery partner.
@@ -33,8 +31,6 @@ Order easily, track your delivery in real time, and enjoy the speed and reliabil
 <p>- <b>Timeframe:</b> October 2023 till December 2023 (3 Months)</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.noworry)
-[![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)]()
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)]()
 
 ### 3. Trac Trac Plus
 The Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.
@@ -42,8 +38,6 @@ The Tractrac Plus app is an innovative technology platform for providing access 
 <p>- <b>Timeframe:</b> October 2023 till December 2023 (3 Months)</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.tractrac.trac_trac)
-[![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)]()
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)]()
 
 ### 4. Delivery Page Rider
 Delivery Page Rider is the ultimate application for simplified, hassle-free deliveries between senders and receivers.
@@ -52,7 +46,6 @@ Delivery Page Rider is the ultimate application for simplified, hassle-free deli
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.deliverypage_rider)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/delivery-page-rider/id6472376758)
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)]()
 
 ### 5. Evergreen FFX
 EvergreenFFX is an automated trading system that uses a reliable AI to help beginners and expert traders win at Forex.
@@ -61,7 +54,6 @@ EvergreenFFX is an automated trading system that uses a reliable AI to help begi
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.evergreen_ffx)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/delivery-page-rider/id6472376758)
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)]()
 
 ### 6. Finosell
 Finosell is a technology company designed to provide business and financial management solutions to individuals and businesses in Africa.
@@ -70,7 +62,7 @@ Finosell is a technology company designed to provide business and financial mana
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.finosell.www.finosell)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/finosell/id1562120098)
-[![image](https://img.shields.io/badge/web-007AFF?style=for-the-badge&logo=opera&logoColor=white)](https://finosell.com/)
+[![image](https://img.shields.io/badge/web-ff1b2d?style=for-the-badge&logo=opera&logoColor=white)](https://finosell.com/)
 
 ## Personal Projects
 ### 1. Weather Loom
@@ -81,7 +73,7 @@ An app designed to show real-time, up-to-date weather information. Powered by Fl
 <li>24 hours and 7 days forecasts</li>
 </ul>
 
-[![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/weather_loom)
+[![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/weather_loom)
 
 ### 2. Quick Flashcards
 A user-friendly mobile app designed for creating and managing flashcards quickly and seamlessly. Powered by Flutter, Riverpod, and Firebase.
@@ -91,7 +83,7 @@ A user-friendly mobile app designed for creating and managing flashcards quickly
 <li>User authentication and secure cloud storage for flashcards.</li>
 </ul>
 
-[![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/quick-flashcards)
+[![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/quick-flashcards)
 
 ### 3. Nasa APOD
 An application showing pictures from NASA's "Astronomy Picture of the Day" website. Powered by Flutter, BLoC, Hive and <a href="https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua">NASA API</a>.
@@ -101,7 +93,7 @@ An application showing pictures from NASA's "Astronomy Picture of the Day" websi
 <li>Support for multiple resolutions and sizes</li>
 </ul>
 
-[![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/nasa_apod)
+[![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/nasa_apod)
 
 ### 4. Fineline Coffee
 A prototype application designed to help customers wait times by allowing them to preorder on the go. Powered by Flutter and Riverpod.
@@ -111,4 +103,4 @@ A prototype application designed to help customers wait times by allowing them t
 <li>Orders customization (e.g. add/remove toppings and size selection)</li>
 </ul>
 
-[![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/fineline_coffee)
+[![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/fineline_coffee)

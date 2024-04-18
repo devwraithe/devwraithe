@@ -77,7 +77,6 @@ Finosell is a technology company designed to provide business and financial mana
 An app designed to show real-time, up-to-date weather information. Powered by Flutter, BLoC, and OpenWeather API.
 <ul>
 <li>Search for locations with Google Places</li>
-<li>Updated weather forecast</li>
 <li>Images based on weather condition</li>
 <li>24 hours and 7 days forecasts</li>
 </ul>
@@ -100,7 +99,6 @@ An application showing pictures from NASA's "Astronomy Picture of the Day" websi
 <li>Search functionality (Find by title and date)</li>
 <li>Offline support using Hive (works with airplane mode)</li>
 <li>Support for multiple resolutions and sizes</li>
-<li>Pull-to-refresh (works in both online and offline modes)</li>
 </ul>
 
 [![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/nasa_apod)
@@ -109,9 +107,8 @@ An application showing pictures from NASA's "Astronomy Picture of the Day" websi
 A prototype application designed to help customers wait times by allowing them to preorder on the go. Powered by Flutter and Riverpod.
 <ul>
 <li>Preview different categories of drinks</li>
-<li>Straightforward navigation and orders selection</li>
+<li>Direct navigation and orders selection</li>
 <li>Orders customization (e.g. add/remove toppings and size selection)</li>
-<li>Mock payment methods (In-app balance, Mastercard, Visa)</li>
 </ul>
 
 [![image](https://img.shields.io/badge/web-171515?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/fineline_coffee)

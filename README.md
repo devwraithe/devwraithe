@@ -59,17 +59,27 @@ Finosell is a technology company designed to provide business and financial mana
 [![image](https://img.shields.io/badge/web-ff1b2d?style=for-the-badge&logo=opera&logoColor=white)](https://finosell.com/)
 
 ## Personal Projects
-### 1. Weather Loom
+### 1. Rock And Roll Forecast
+A cross-platform mobile application (Android and iOS) to track the weather fashionably for a rock'n'roll band staff.
+<ul>
+<li>A list of cities for upcoming concerts</li>
+<li>Images based on weather condition</li>
+<li>Shows the next 5 days forecast for each city</li>
+</ul>
+
+[![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/rock_n_roll_forecast)
+
+### 2. Weather Loom
 An app designed to show real-time, up-to-date weather information. Powered by Flutter, BLoC, and OpenWeather API.
 <ul>
 <li>Search for locations with Google Places</li>
-<li>Images based on weather condition</li>
+<li>Shows current weather info for each city</li>
 <li>24 hours and 7 days forecasts</li>
 </ul>
 
 [![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/weather_loom)
 
-### 2. Quick Flashcards
+### 3. Quick Flashcards
 A user-friendly mobile app designed for creating and managing flashcards quickly and seamlessly. Powered by Flutter, Riverpod, and Firebase.
 <ul>
 <li>Create flashcards with ease.</li>
@@ -79,7 +89,7 @@ A user-friendly mobile app designed for creating and managing flashcards quickly
 
 [![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/quick-flashcards)
 
-### 3. Nasa APOD
+### 4. Nasa APOD
 An application showing pictures from NASA's "Astronomy Picture of the Day" website. Powered by Flutter, BLoC, Hive and <a href="https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua">NASA API</a>.
 <ul>
 <li>Search functionality (Find by title and date)</li>
@@ -89,7 +99,7 @@ An application showing pictures from NASA's "Astronomy Picture of the Day" websi
 
 [![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/nasa_apod)
 
-### 4. Fineline Coffee
+### 5. Fineline Coffee
 A prototype application designed to help customers wait times by allowing them to preorder on the go. Powered by Flutter and Riverpod.
 <ul>
 <li>Preview different categories of drinks</li>

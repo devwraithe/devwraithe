@@ -1,9 +1,10 @@
 ## Greetings! 👋 I'm Ibrahim Ibrahim
 I'm an engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer. You can reach me via:
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
+[![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
 
 A little more about me 😉
 - 🔭 Currently, I'm crafting top-notch software solutions, tackling one problem at a time.
@@ -90,7 +91,7 @@ A user-friendly mobile app designed for creating and managing flashcards quickly
 [![image](https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/devwraithe/quick-flashcards)
 
 ### 4. Nasa APOD
-An application showing pictures from NASA's "Astronomy Picture of the Day" website. Powered by Flutter, BLoC, Hive and <a href="https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua">NASA API</a>.
+An application showing pictures from NASA's "Astronomy Picture of the Day" website. Powered by Flutter, BLoC, Hive, and <a href="https://data.nasa.gov/Space-Science/Astronomy-Picture-of-the-Day-API/ez2w-t8ua">NASA API</a>.
 <ul>
 <li>Search functionality (Find by title and date)</li>
 <li>Offline support using Hive (works with airplane mode)</li>

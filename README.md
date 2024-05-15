@@ -2,9 +2,9 @@
 I'm an engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer. You can reach me via:
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
-[![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
+&nbsp; [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
+&nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
+&nbsp; [![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
 
 A little more about me 😉
 - 🔭 Currently, I'm crafting top-notch software solutions, tackling one problem at a time.
@@ -13,10 +13,11 @@ A little more about me 😉
 - 🎉 Here's a fun fact: I'm a huge fan of instrumental music and art brings me joy.
 
 ## GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical" alt="Devwraithe's Github Stats"/>
-    <img width="46%" src="https://streak-stats.demolab.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
-</div>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical&include_all_commits=true" alt="Devwraithe's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks" /> |
+| ------------- | ------------- |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devwraithe&layout=compact&theme=radical" alt="Devwraithe's Wakatime Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&langs_count=8&layout=compact&theme=radical&border_radius=04.5" /> |
+| ------------- | ------------- |
 
 ## Professional Projects
 ### 1. Delivery Page Dispatch
@@ -26,7 +27,7 @@ Logistics management that helps delivery businesses start accepting online booki
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.deliverypage)
 
 ### 2. No Worry
-Order easily, track your delivery in real time, and enjoy the speed and reliability that make us your go-to delivery partner.
+Order easily, track your delivery in real-time, and enjoy the speed and reliability that make us your go-to delivery partner.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.noworry)

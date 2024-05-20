@@ -27,39 +27,39 @@ A fintech platform that provides a variety of services to help businesses and pe
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.utopiepay.utopiepay)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/utopie-pay/id6474944225)
 
-### 1. Delivery Page Dispatch
+### 2. Delivery Page Dispatch
 Logistics management that helps delivery businesses start accepting online bookings, payments, tracking, and dispatching.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.deliverypage)
 
-### 2. No Worry
+### 3. No Worry
 Order easily, track your delivery in real-time, and enjoy the speed and reliability that make us your go-to delivery partner.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.noworry)
 
-### 3. Trac Trac Plus
+### 4. Trac Trac Plus
 The Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.tractrac.trac_trac)
 
-### 4. Delivery Page Rider
+### 5. Delivery Page Rider
 Delivery Page Rider is the ultimate application for simplified, hassle-free deliveries between senders and receivers.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.focedia.deliverypage_rider)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/delivery-page-rider/id6472376758)
 
-### 5. Evergreen FFX
+### 6. Evergreen FFX
 EvergreenFFX is an automated trading system that uses a reliable AI to help beginners and expert traders win at Forex.
 <p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.evergreen_ffx)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/delivery-page-rider/id6472376758)
 
-### 6. Finosell
+### 7. Finosell
 Finosell is a technology company designed to provide business and financial management solutions to individuals and businesses in Africa.
 <p>- <b>Technologies:</b> Dart, Flutter, Provider</p>
 

@@ -68,7 +68,7 @@ Finosell is a technology company designed to provide business and financial mana
 [![image](https://img.shields.io/badge/web-ff1b2d?style=for-the-badge&logo=opera&logoColor=white)](https://finosell.com/)
 
 ## Personal Projects
-### 1. Rock And Roll Forecast
+### 1. Rock Band Forecast
 A cross-platform mobile application (Android and iOS) to track the weather fashionably for a rock'n'roll band staff.
 <ul>
 <li>A list of cities for upcoming concerts</li>

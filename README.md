@@ -1,16 +1,20 @@
 ## Greetings! 👋 I'm Ibrahim Ibrahim
-I'm an engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer. You can reach me via:
+I'm an engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer.
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
-&nbsp; [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
-&nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
-&nbsp; [![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
+#### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; ![Rust](https://img.shields.io/badge/Rust-92340B?style=for-the-badge&logo=rust&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-A little more about me 😉
+#### A little more about me 😉
 - 🔭 Currently, I'm crafting top-notch software solutions, tackling one problem at a time.
 - 🌱 My focus is on mastering the application of Flutter 💙 across diverse industries, with no end to my learning journey in sight!
 - 💬 Need insights on Dart or Flutter? Ask away, and I'll do my best to provide the answers you seek.
 - 🎉 Here's a fun fact: I'm a huge fan of instrumental music and art brings me joy.
+
+#### Get in touch via:
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimaibrahim/)
+&nbsp; [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimibrahim851@outlook.com)
+&nbsp; [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/devwraithe/)
+&nbsp; [![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
 
 ## GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical&include_all_commits=true" alt="Devwraithe's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks" /> |

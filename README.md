@@ -1,5 +1,5 @@
 ## Greetings! 👋 I'm Ibrahim Ibrahim
-I'm a software engineer on a mission to craft the best experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer.
+I'm a software engineer on a mission to craft the best software experiences. With a knack for clean code and a passion for innovation, I specialize in turning ideas into polished applications while constantly aiming to refine my craft. I'm keen on exploring as much as I can about the diverse world of Flutter, and seeing what it has to offer.
 
 **Programming Languages**
 

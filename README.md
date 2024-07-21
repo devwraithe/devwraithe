@@ -29,7 +29,7 @@ I'm a software engineer on a mission to craft the best software experiences. Wit
 ## Professional Projects
 ### 1. Utopie Pay
 A fintech platform that provides a variety of services to help businesses and people manage their money in multiple currencies.
-<p>- <b>Technologies:</b> Dart, Flutter, BLoC</p>
+<p>- <b>Technologies:</b> Dart, Flutter, BLoC</p> 
 
 [![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.utopiepay.utopiepay)
 [![image](https://img.shields.io/badge/Apple-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/ng/app/utopie-pay/id6474944225)

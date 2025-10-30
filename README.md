@@ -20,11 +20,9 @@ I'm a software engineer on a mission to craft the best software experiences. Wit
 &nbsp; [![image](https://img.shields.io/badge/resume-414141?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1IyJrdi5-FoQN4D_NDtth6A53qECLG_sisokLsRcBJb0/edit?usp=sharing)
 
 ## GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical&include_all_commits=true" alt="Devwraithe's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwraithe&count_private=true&show_icons=true&hide_title=false&theme=radical&include_all_commits=true" alt="Devwraithe's Github Stats" /> <!-- | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devwraithe&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks" /> | -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devwraithe&layout=compact&theme=radical" alt="Devwraithe's Wakatime Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&langs_count=8&layout=compact&theme=radical&border_radius=04.5" /> |
-| ------------- | ------------- |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=devwraithe&layout=compact&theme=radical" alt="Devwraithe's Wakatime Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwraithe&langs_count=8&layout=compact&theme=radical&border_radius=04.5" /> | -->
 
 ## Professional Projects
 ### 1. Utopie Pay
